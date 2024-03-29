@@ -2,7 +2,7 @@
 
 ### Description
 
-💻 Code Pair is a Realtime Code Editor and a collaboration tool built with React, Node, Express and Socket.io. It uses web sockets for syncing code and setting up connection between client and server.
+💻 DevShare is a Realtime Code Editor and a collaboration tool built with React, Node, Express and Socket.io. It uses web sockets for syncing code and setting up connection between client and server.
 
 A user a create a new room, share room ID with other peers, work on code real time. The Editor has syntax highlighting, indentation, autocomplete and brace matching functionality.
 
